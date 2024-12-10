@@ -7,3 +7,6 @@ print('Hello,python!')
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [ ] study a lesson
+- [x] take a shower
